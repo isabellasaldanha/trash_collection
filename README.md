@@ -19,6 +19,20 @@ Run the game by executing the following command:
 ```bash
 python main.py
 ```
+## Folder Structure
+
+```
+.
+├── assets
+│   ├── background.png       # Background image for the game
+│   ├── bin.png              # Image for the player's trash bin
+│   ├── trash.png            # Image for the trash items
+│   ├── collect.wav          # Sound effect for collecting trash
+│   ├── game_over.wav        # Sound effect for game over
+│   └── comic.ttf            # Font file for displaying text
+├── README.md                # This file
+└── main.py                  # Main Python script to run the game
+```
 
 ## How to Play
 
